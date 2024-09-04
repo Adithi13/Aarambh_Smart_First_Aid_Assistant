@@ -6,7 +6,7 @@ Aarambh is a mobile app designed to provide real-time guidance during medical em
 ## Description
 Aarambh features a user-friendly interface and speech recognition to describe emergencies in users' own words. It provides real-time guidance and feedback using OpenCV, and can automatically contact emergency services. The app supports offline use, multiple languages, and is regularly updated with the latest medical guidelines.
 
-### Key Features:
+## Key Features:
 - **User-Friendly Interface:** Intuitive design suitable for users of all technical backgrounds.
 - **Speech Recognition:** Allows users to describe emergency scenarios in their own words.
 - **AI-Generated Instructions:** Personalized, step-by-step guidance tailored to specific medical emergencies.
@@ -27,7 +27,7 @@ Aarambh features a user-friendly interface and speech recognition to describe em
 2. **Navigate to the project directory:**
 
     ```
-      cd Fake-News-Classification
+      cd Aarambh_Smart_First_Aid_Assistant
     ```
 
 ## Results

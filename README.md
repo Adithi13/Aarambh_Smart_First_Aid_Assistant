@@ -21,7 +21,7 @@ Aarambh features a user-friendly interface and speech recognition to describe em
 
 1. **Clone the repository:**
   ```
-   git clone [https://github.com/Adithi13/FakeNews_Classification.git](https://github.com/Adithi13/Aarambh-_Smart-First_-Aid-_Assistant.git)
+   git clone (https://github.com/Adithi13/Aarambh-_Smart-First_-Aid-_Assistant.git)
   ```
 
 2. **Navigate to the project directory:**
